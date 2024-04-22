@@ -58,7 +58,9 @@ print(r)
 
 ## Output
 ```
-![Screenshot (1)](https://github.com/PrasanthE2001/QRdecomposition/assets/114572171/de8929c1-090a-4b64-adc0-ae0df8124ba3)
+![Screenshot (2)](https://github.com/PrasanthE2001/QRdecomposition/assets/114572171/959dcce1-f19a-4930-a423-d3e9d318ce0b)
+![Screenshot (3)](https://github.com/PrasanthE2001/QRdecomposition/assets/114572171/87a99081-cb11-48c0-abcf-bda58e877bab)
+
 
 ```
 
