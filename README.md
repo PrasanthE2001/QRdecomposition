@@ -58,7 +58,7 @@ print(r)
 
 ## Output
 ```
-C:\Users\kaviy\OneDrive\Pictures\Screenshots\Screenshot (1).png
+![Screenshot (1)](https://github.com/PrasanthE2001/QRdecomposition/assets/114572171/de8929c1-090a-4b64-adc0-ae0df8124ba3)
 
 ```
 
