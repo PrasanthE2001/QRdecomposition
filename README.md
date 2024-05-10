@@ -46,22 +46,12 @@ for i in range(n) :
         r[i,j]=arr[:,j]@e[:,i]
 print(e)
 print(r)
-
-
-
-
-
-
-
-
 ```
 
 ## Output
-```
-![Screenshot 2024-05-10 082533](https://github.com/PrasanthE2001/QRdecomposition/assets/114572171/5d089dc4-b875-43ac-bf9a-849a5f7e75ca)
 
+![Screenshot 2024-05-10 082533](https://github.com/PrasanthE2001/QRdecomposition/assets/114572171/990db72a-9355-416e-b5c6-dafeabec24ee)
 
-```
 
 ## Result
 Thus the QR decomposition algorithm using the Gram-Schmidt process is written and verified the result.
